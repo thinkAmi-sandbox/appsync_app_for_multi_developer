@@ -1,0 +1,1 @@
+# appsync_app_for_multi_developer
